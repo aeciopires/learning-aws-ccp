@@ -53,6 +53,8 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 * https://medium.datadriveninvestor.com/steps-to-acing-the-aws-certified-cloud-practitioner-ccp-exam-clf-c01-ef5ada8f0912
 * https://medium.com/nerd-for-tech/my-study-guide-for-aws-cloud-practitioner-exam-ca6ecf69af44
 * https://aws.plainenglish.io/hacks-for-aws-cloud-practitioner-certification-2c36b2241d37
+* https://aws.plainenglish.io/aws-cloud-practitioner-study-notes-2021-64fa18b9121b
+* https://medium.com/geekculture/how-i-passed-aws-certified-cloud-practitioner-exam-in-2-weeks-and-so-can-you-a968764bce0b
 
 ## Exercises and simulators
 
