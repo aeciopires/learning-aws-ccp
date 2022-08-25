@@ -38,6 +38,8 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 * https://acloudguru.com/course/aws-certified-cloud-practitioner
 * https://www.whizlabs.com/aws-certified-cloud-practitioner/
 * https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/
+* https://cursos.alura.com.br/course/aws-certified-cloud-practitioner-domain-1-e-2
+* https://cursos.alura.com.br/course/aws-certified-cloud-practitioner-domain-3-e-4
 
 ## Tips
 
