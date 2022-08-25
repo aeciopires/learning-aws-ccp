@@ -5,6 +5,7 @@
 - [learning-aws-ccp](#learning-aws-ccp)
 - [Content](#content)
   - [Courses](#courses)
+  - [Books](#books)
   - [Tips](#tips)
   - [Exercises and simulators](#exercises-and-simulators)
 - [Tools](#tools)
@@ -40,6 +41,13 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 * https://portal.tutorialsdojo.com/courses/aws-certified-cloud-practitioner-practice-exams/
 * https://cursos.alura.com.br/course/aws-certified-cloud-practitioner-domain-1-e-2
 * https://cursos.alura.com.br/course/aws-certified-cloud-practitioner-domain-3-e-4
+* https://learning.oreilly.com/videos/learn-to-pass/606062021VIDEOPAIML/
+
+## Books
+
+* https://learning.oreilly.com/library/view/aws-certified-cloud/9781801075930/
+* https://learning.oreilly.com/library/view/aws-certified-cloud/9781260473889/
+* https://learning.oreilly.com/library/view/aws-certified-cloud/9780135266960/
 
 ## Tips
 
@@ -63,6 +71,7 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 
 * https://www.youtube.com/watch?v=oTWF08tBPPQ
 * https://www.amazon.com.br/Certified-Cloud-Practitioner-Practice-Tests-ebook/dp/B07VKN5RZ1
+* https://www.amazon.com.br/Certified-Cloud-Practitioner-Practice-CLF-C01-ebook/dp/B08JVH4GW1
 * https://cloudacademy.com/quiz/33549/
 * https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-amazon/
 * https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-test/
@@ -72,6 +81,8 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 * https://www.testpreptraining.com/aws-certified-cloud-practitioner-free-practice-test
 * https://www.whizlabs.com/blog/aws-cloud-practitioner-certification-questions/
 * https://www.vmexam.com/aws/aws-clf-c01-certification-exam-sample-questions
+* https://learning.oreilly.com/certifications/9780135954843/
+* https://www.udemy.com/course/aws-practitioner-em-portugues/
 
 # Tools
 
