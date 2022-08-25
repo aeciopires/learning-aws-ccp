@@ -43,6 +43,7 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 
 ## Tips
 
+* https://www.youtube.com/watch?v=Tjjdafc2Jf0
 * https://medium.com/@CloudWings/become-aws-certified-cloud-practitioner-for-free-c18e363e6b41
 * https://medium.com/adventures-in-consumer-technology/aws-cloud-practitioner-a-study-guide-86f4c143c5ef
 * https://medium.com/nerd-for-tech/my-study-guide-for-aws-cloud-practitioner-exam-ca6ecf69af44
