@@ -82,6 +82,7 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 * https://www.vmexam.com/aws/aws-clf-c01-certification-exam-sample-questions
 * https://learning.oreilly.com/certifications/9780135954843/
 * https://www.udemy.com/course/aws-practitioner-em-portugues/
+* https://aws.amazon.com/training/digital/aws-cloud-quest/
 
 # License
 
