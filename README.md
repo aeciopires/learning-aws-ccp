@@ -41,6 +41,7 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 * https://cursos.alura.com.br/course/aws-certified-cloud-practitioner-domain-1-e-2
 * https://cursos.alura.com.br/course/aws-certified-cloud-practitioner-domain-3-e-4
 * https://learning.oreilly.com/videos/learn-to-pass/606062021VIDEOPAIML/
+* https://pages.awscloud.com/LATAM-event-OE-get-cert-cp-ptbr-sob-demanda-2022-interest.html
 
 ## Books
 
@@ -90,6 +91,8 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 * https://dumpsgate.com/wp-content/uploads/2021/01/CLF-C01-demo-dg-re.pdf
 * https://www.whizlabs.com/aws-certified-cloud-practitioner/
 * https://free-braindumps.com/amazon/free-clf-c01-braindumps.html?p=2
+* https://www.braindump2go.com/free-online-pdf/AWS-Certified-Cloud-Practitioner-VCE-Dumps(851-876).pdf
+* https://github.com/noahgift/aws-cloud-practitioner-exam/blob/master/questions-answers.md
 
 # License
 
