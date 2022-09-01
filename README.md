@@ -83,6 +83,13 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 * https://learning.oreilly.com/certifications/9780135954843/
 * https://www.udemy.com/course/aws-practitioner-em-portugues/
 * https://aws.amazon.com/training/digital/aws-cloud-quest/
+* https://www.downloadfreepdf.net/AWS-Certified-Cloud-Practitioner-pdf-download.html
+* https://www.dumpscollection.net/dumps/AWS-Certified-Cloud-Practitioner/
+* https://www.youtube.com/watch?v=4cIaF3uKsKg
+* https://www.youtube.com/watch?v=bZzTMdFbgTs&list=PLyABYqulvUwa6gPvFLgUVhg0Ve9GhReaB
+* https://dumpsgate.com/wp-content/uploads/2021/01/CLF-C01-demo-dg-re.pdf
+* https://www.whizlabs.com/aws-certified-cloud-practitioner/
+* https://free-braindumps.com/amazon/free-clf-c01-braindumps.html?p=2
 
 # License
 
