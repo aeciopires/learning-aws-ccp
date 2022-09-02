@@ -17,6 +17,7 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 # Content
 
 * https://aws.amazon.com/certification/certified-cloud-practitioner/
+* https://www.whizlabs.com/blog/aws-cheat-sheet/
 * https://aws.amazon.com/certification/policies/
 * https://explore.skillbuilder.aws/learn/course/external/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner-foundations
 * https://explore.skillbuilder.aws/learn/course/external/view/elearning/12483/aws-certified-cloud-practitioner-practice-question-set-clf-c01-english
