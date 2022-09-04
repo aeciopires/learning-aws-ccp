@@ -91,7 +91,7 @@ Learning content for the AWS Certified Cloud Practitioner - AWS CCP
 * https://www.youtube.com/watch?v=bZzTMdFbgTs&list=PLyABYqulvUwa6gPvFLgUVhg0Ve9GhReaB
 * https://dumpsgate.com/wp-content/uploads/2021/01/CLF-C01-demo-dg-re.pdf
 * https://www.whizlabs.com/aws-certified-cloud-practitioner/
-* https://free-braindumps.com/amazon/free-clf-c01-braindumps.html?p=2
+* https://free-braindumps.com/amazon/free-clf-c01-braindumps.html
 * https://www.braindump2go.com/free-online-pdf/AWS-Certified-Cloud-Practitioner-VCE-Dumps(851-876).pdf
 * https://github.com/noahgift/aws-cloud-practitioner-exam/blob/master/questions-answers.md
 
